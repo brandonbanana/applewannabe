@@ -11,22 +11,59 @@
     "Helvetica", "Arial", sans-serif;
 }
 
-.hero {
+.first-page {
   background-image: url("https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone13pro/2021-fall-iphone13-pro-colors.png");
-    height: 500px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    align-items: center;
-    display: flex;
-    flex-direction: column;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
-.ttle {
+.first-title {
   margin: 30px;
   font-size: 30px;
+  line-height: 1.0714285714;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
 }
 
-.btn { 
+.btn {
+  height: 30px;
+  margin: 165px;
+}
+
+.second-page {background-image: url("https://consultants.apple.com/static/media/productFamily_without_bg.deb0dcb0.png");
+   height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.second-title {
+  margin: 30px;
+  font-size: 30px;
+  line-height: 1.0714285714;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+    
+}
+
+.btn2{
 height: 30px;
-    margin: 165px;}
+margin: 165px;
+
+}
+
+
+
+
