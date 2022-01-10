@@ -1,0 +1,32 @@
+.apple-list {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.8);
+  justify-content: space-evenly;
+  list-style: none;
+}
+.apple-list-item {
+  padding: 10px;
+  color: #ffffff;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue",
+    "Helvetica", "Arial", sans-serif;
+}
+
+.hero {
+  background-image: url("https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone13pro/2021-fall-iphone13-pro-colors.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.ttle {
+  margin: 30px;
+  font-size: 30px;
+}
+
+.btn { 
+height: 30px;
+    margin: 165px;}
